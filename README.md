@@ -1,0 +1,1 @@
+This is sample project of creating code first migration. It's based on project 'Udemy course Entity Framework in Depth: The Complete Guide by Mosh Hamedani
